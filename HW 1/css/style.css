@@ -16,7 +16,7 @@ body {
 /* Centers and sizes the header title, fonts, and sets the background image*/
 .header {
     padding: 60px;
-    background-image: url("../images/pumpkin banner.jpg");
+    background-image: url("../images/pumpkin_banner.jpg");
     background-color: #cccccc;
     background-size: cover;
     color: white;
